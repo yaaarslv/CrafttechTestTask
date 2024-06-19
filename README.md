@@ -1,5 +1,7 @@
 # CrafttechTestTask
 
+### Ссылка на развёрнутое приложение: https://crafttechtesttask.onrender.com/api/tasks
+
 ## Описание
 
 CrafttechTestTask - это веб-приложение для управления задачами, созданное с использованием Node.js, Express, TypeScript и PostgreSQL. Приложение позволяет пользователям создавать, редактировать, удалять и просматривать задачи.
